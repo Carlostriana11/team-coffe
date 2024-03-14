@@ -3,13 +3,9 @@
 }
 
 body{
-    background-color: black;
+    background-color: grey;
     margin: 0 4.5rem;   /*esto es para que la barra de navegacion de despegue de los lados*/
-        
-   
-   
- 
-   
+    
 }
 
 header{
@@ -18,11 +14,6 @@ header{
     align-items: center;
     background-color: #444242;
     border-radius: 1rem;
-    
-    
-   
-   
-
 
 }
 
@@ -39,4 +30,17 @@ header{
     display: flex;
     list-style: none;
     padding: 0;
+    gap: 30px;
+    
+}
+
+.box-social{
+    margin: auto; 
+    padding: 0;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+   
 }
