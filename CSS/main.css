@@ -4,7 +4,8 @@
 
 body{
     background-color: black;
-    margin: 0;
+    margin: 0 4.5rem;   /*esto es para que la barra de navegacion de despegue de los lados*/
+        
    
    
  
@@ -16,7 +17,7 @@ header{
     justify-content: space-between;
     align-items: center;
     background-color: #444242;
-    border-radius: 10px;
+    border-radius: 1rem;
     
     
    
@@ -29,7 +30,7 @@ header{
     display: flex;
     list-style: none;
     padding: 0;
-    gap: 24px;
+    gap: 100px;
     margin-left: 30px;
     justify-content: center;
     width: 1000px;
