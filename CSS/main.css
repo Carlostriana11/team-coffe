@@ -3,16 +3,18 @@
 }
 
 body{
-    background-color: grey;
+    background-color: black;
     margin: 0 4.5rem;   /*esto es para que la barra de navegacion de despegue de los lados*/
-    
+ 
 }
+
+
 
 header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #444242;
+    background-color: #303030;
     border-radius: 1rem;
     
 
@@ -54,7 +56,7 @@ img{
 }
 
 .links-hover{
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
