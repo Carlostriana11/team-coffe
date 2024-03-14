@@ -1,0 +1,54 @@
+html,
+body {
+    margin: 3rem 4rem;
+    background-color: black;
+    height: 100%;
+    
+}
+.conteiner-pagina{
+    display: flex;
+
+}
+
+.margin-foto,
+.content-main{
+    flex: 1;
+}
+
+
+h1{
+    color: #f5f5f5;
+    margin: 1.5rem 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+}
+p{
+    color: #f5f5f5;
+    margin: 1rem 4rem;
+    padding: 0;
+}
+
+.boton {
+    margin: 2rem 4rem;
+}
+
+a {
+    color: #f5f5f5;
+    text-decoration: none;
+}
+
+.boton {
+    height: 70rme;
+    width: 17rem;
+    background-color: green;
+    text-align: center;
+    padding: 1rem;
+    border-radius: .3rem;
+}
+
+.margin-foto{
+    text-align: center;
+}
+
+
+
