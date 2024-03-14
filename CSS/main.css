@@ -1,5 +1,5 @@
 *{
-    border: red 1px solid;
+    /* border: red 1px solid; */
 }
 
 body{
@@ -35,12 +35,19 @@ header{
 }
 
 .box-social{
-    margin: auto; 
-    padding: 0;
+    margin: auto; /*para que se centre respecto a su espacio*/
+    transition: all 200ms ease;
+   
 }
+
+
 
 img{
     width: 30px;
     height: 30px;
    
+}
+
+img:hover{
+    filter: invert(94%) sepia(3%) saturate(1049%) hue-rotate(67deg) brightness(104%) contrast(108%);
 }
