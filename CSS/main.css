@@ -1,3 +1,35 @@
-body {
-background-color: orangered;
+*{
+    border: red 1px solid;
+}
+
+body{
+    background-color: black;
+    margin: 0;
+ 
+   
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #444242;
+    border-radius: 10px;
+   
+   
+
+
+}
+
+.nav-primaria{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 180px;
+    margin-left: 30px;
+}
+.nav-secundaria{
+    display: flex;
+    list-style: none;
+    padding: 0;
 }
