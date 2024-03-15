@@ -72,7 +72,7 @@ img{
 }
 /*-----------------------------------------------------*/
 
-body {
+/* body {
 
     margin: 3rem 4rem;
     background-color: black;
@@ -82,9 +82,11 @@ body {
     font-family: sans-serif;
     text-transform: capitalize;
     
-}
+} */
 .conteiner-pagina{
     display: flex;
+    padding: 3rem 0;
+    margin: 2rem 0;
 
 }
 
@@ -130,14 +132,14 @@ a {
 
 .container {
     max-width: 1200px;
-    margin: 4rem  2rem;
+    margin: 4rem  4rem;
     
     
 }
 
 .footer {
     background-color: #000000;
-    padding: 80px 0;
+    padding: 1px 0;
 }
 
 .footer-row{
@@ -194,6 +196,10 @@ a {
 
 h4{
     margin: 3rem 2rem;
+}
+.bola {
+   width: 50%;
+   height: 50%;
 }
 
 
