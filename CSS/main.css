@@ -1,10 +1,9 @@
 
-
- body{
+body{
     background-color: black;
     margin: 0 4.5rem;   
- }
- 
+}
+
 
 
 
@@ -37,8 +36,7 @@ header{
 
 .box-social{
     margin: auto; /*para que se centre respecto a su espacio*/
-    
-   
+
 }
 
 
@@ -46,7 +44,6 @@ header{
 img{
     width: 30px;
     height: 30px;
-   
 }
 
 .icons-hover:hover{
@@ -58,10 +55,10 @@ img{
     text-decoration: none;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   
+
 }
- /*-----------------------------------------------------*/
- /*funcion para generar la linea que se hace pot debajo del nav*/
+/*-----------------------------------------------------*/
+/*funcion para generar la linea que se hace pot debajo del nav*/
 .links-hover::after{
     content: "";
     height: 4px;
@@ -73,12 +70,7 @@ img{
 .links-hover:hover::after{
     width: 100%;
 }
- /*-----------------------------------------------------*/
-
-
-
-/* CARLOS */
-
+/*-----------------------------------------------------*/
 
 body {
 
@@ -121,8 +113,6 @@ a {
 .boton {
     margin: 2rem 4rem;
 }
-
-
 
 .boton {
     height: 70rme;
@@ -205,4 +195,5 @@ a {
 h4{
     margin: 3rem 2rem;
 }
+
 
