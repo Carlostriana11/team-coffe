@@ -27,15 +27,16 @@ p{
     margin: 1rem 4rem;
     padding: 0;
 }
+a {
+    color: #f5f5f5;
+    text-decoration: none;
+}
 
 .boton {
     margin: 2rem 4rem;
 }
 
-a {
-    color: #f5f5f5;
-    text-decoration: none;
-}
+
 
 .boton {
     height: 70rme;
