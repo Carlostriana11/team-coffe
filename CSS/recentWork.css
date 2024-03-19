@@ -1,0 +1,33 @@
+*{
+    border: 1px red solid;
+}
+body{
+    margin: 0px 195px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.parrafo{
+    text-align: center;
+    width: 44%;
+    margin: auto;
+}
+
+.content{
+
+}
+
+.image1{
+ border: 1px solid blue;
+ width: 97%;
+ margin: 30px;
+ display: flex;
+ gap: 30px;
+}
+
+.image2{
+    border: 3px solid rgb(0, 255, 8);
+    
+}
