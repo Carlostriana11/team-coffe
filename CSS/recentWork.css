@@ -20,14 +20,30 @@ body{
 }
 
 .image1{
- border: 1px solid blue;
- width: 97%;
- margin: 30px;
+ /* border: 1px solid blue; */
+ width: 94%;
+ margin: 23px;
  display: flex;
- gap: 30px;
+ gap:158px;
+ padding: 9px;
 }
 
 .image2{
-    border: 3px solid rgb(0, 255, 8);
+    /* border: 3px solid rgb(0, 255, 8); */
     
 }
+
+.image-style{
+ border-radius: 15px;
+}
+
+
+.info{
+    display: flex;
+}
+
+.recent2{
+    width: 60%;
+
+}
+
