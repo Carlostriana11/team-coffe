@@ -1,5 +1,5 @@
 *{
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 body{
     margin: 0px 195px;
@@ -30,7 +30,7 @@ body{
 
 .image2{
     /* border: 3px solid rgb(0, 255, 8); */
-    
+
 }
 
 .image-style{
@@ -43,7 +43,27 @@ body{
 }
 
 .recent2{
-    width: 60%;
+    width: 64%;
 
 }
 
+.titulo1 {
+    margin: 18px;
+}
+
+.parrafo1 {
+    width: 71%;
+    margin: 0;
+    color: gray;
+}
+
+.parrafo2 {
+    width: 52%;
+    margin: 0 19px;
+}
+.button {
+    margin: 21px 15px;
+    padding: 11px 44px;
+    border-radius: 11px;
+    background-color: green;
+}
