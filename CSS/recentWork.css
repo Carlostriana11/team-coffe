@@ -1,0 +1,69 @@
+*{
+    /* border: 1px red solid; */
+}
+body{
+    margin: 0px 195px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.parrafo{
+    text-align: center;
+    width: 44%;
+    margin: auto;
+}
+
+.content{
+
+}
+
+.image1{
+ /* border: 1px solid blue; */
+ width: 94%;
+ margin: 23px;
+ display: flex;
+ gap:158px;
+ padding: 9px;
+}
+
+.image2{
+    /* border: 3px solid rgb(0, 255, 8); */
+
+}
+
+.image-style{
+ border-radius: 15px;
+}
+
+
+.info{
+    display: flex;
+}
+
+.recent2{
+    width: 64%;
+
+}
+
+.titulo1 {
+    margin: 18px;
+}
+
+.parrafo1 {
+    width: 71%;
+    margin: 0;
+    color: gray;
+}
+
+.parrafo2 {
+    width: 52%;
+    margin: 0 19px;
+}
+.button {
+    margin: 21px 15px;
+    padding: 11px 44px;
+    border-radius: 11px;
+    background-color: green;
+}
