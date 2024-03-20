@@ -1,0 +1,85 @@
+body {
+    margin: 0 4rem;
+    background-color: #080808;
+}
+
+a{
+    text-decoration: none;
+    padding: 2;
+    color: black;
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 1rem 0 0 0;
+    color: #f5f5f5;
+}
+.enlace{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 42%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 0 1rem 0;
+
+} 
+
+p{
+    
+    text-align: center;
+    color: #9c9c9c;
+}
+.contenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.e,.m{
+    width: 17rem;
+    height: 1.8rem;
+    color: #f5f5f5;
+    border-radius: .3rem;
+
+}
+
+.s{
+    width: 17rem;
+    height: 7rem;
+    color: #f5f5f5;
+    border-radius: .3rem;
+}
+button{
+    width: 100%;
+    height: 2.5rem;
+    background-color: #62ba1b;
+    border-radius: .3rem;
+}
+.email1,.mobile,.message,.boton{
+    padding: 1rem;
+    color: #f5f5f5;
+}
+
+footer{
+    background-color: #1B1B1B;
+    width: 100%;
+    text-align: center;
+    margin-top: 4rem;
+    padding: 1rem 0 1rem 0;
+    color: #9c9c9c;
+}
+
+
